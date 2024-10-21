@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sl4o1tuor-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/sl4o1tuor-java-quarkus-gitops
